@@ -32,8 +32,3 @@ I am also a student of 42 Yerevan programming school 🔥.
   </a> 
 </p>
 
-<p align="right">
-  <a href="https://profile.intra.42.fr/users/shovsepy">
-    <img src="https://badgen.net/badge/Born2Code/shovsepy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
-  </a>
-</p>
