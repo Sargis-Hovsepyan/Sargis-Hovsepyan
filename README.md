@@ -47,5 +47,6 @@ Java backend development. I also want to specielise in DevOps Engineering.
 
 ## 🙂 Profile
 
-Here you can find the projets that I do at 42. If you need anything like a bit of help for a project 🗣️, 
-explanations of my codes 💬, or want to have a drink together 🍻, you can find me on discord (Nathaniel#6654). 
+Here you can find the projets that I do at 42 and in general. If you need anything like a bit of help for a 
+project 🗣️, explanations of my codes 💬, or want to have a drink together 🍻, you can find me on 
+discord tagged as Nathaniel (Nathaniel#6654).
