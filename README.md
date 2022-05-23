@@ -37,7 +37,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 <p align="right">
   <a href="https://github.com/Sargis-Hovsepyan/42YerevanProjects">
-    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
+    <img src="https://badge42.vercel.app/api/v2/cl3ii8h2j009709md5ikscbyd/stats?cursusId=21&coalitionId=undefined">
   </a> 
 </p>
 
