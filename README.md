@@ -11,9 +11,14 @@ I am also a student of 42 Yerevan programming school 🔥.
 ## 👨‍🎓 Education and Area of Interest
 
 - 🔭 Student of American Universit of Armenia (AUA). 
-- 🌱 Student of 42 Programming school in Yerevan. 
+- 🌱 Student of 42 Programming School in Yerevan.
+<p>
+  <a href="https://profile.intra.42.fr/users/shovsepy">
+    <img src="https://badgen.net/badge/Born2Code/arakhurs/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
+</p>
 
-🎇 I am currentl interested in,
+🎇 I am currently interested in,
 
 - Back End Development (Java/C++)
 - DevOps Engineering
@@ -21,7 +26,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 - Bioinformatics 
 - HP Algorithms and Distributes Systems
 
-## Github User and 42 Cursus Stats
+## 📈 Github User and 42 Cursus Stats
 
 <p align="center">
   <a href="https://github.com/Sargis-Hovsepyan">
