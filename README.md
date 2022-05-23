@@ -10,11 +10,11 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 ## 👨‍🎓 Education and Area of Interest
 
-- 🔭 Student of American Universit of Armenia (AUA). 
-- 🌱 Student of 42 Programming School in Yerevan.
+- 🔭 Student of American Universit of Armenia (AUA).
 <p>
+- 🌱 Student of 42 Programming School in Yerevan.
   <a href="https://profile.intra.42.fr/users/shovsepy">
-    <img src="https://badgen.net/badge/Born2Code/arakhurs/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+    <img src="https://badgen.net/badge/Born2Code/shovsepy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </p>
 
