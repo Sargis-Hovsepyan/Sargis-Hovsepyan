@@ -23,10 +23,13 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 ## Github User and 42 Cursus Stats
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sargis-Hovsepyan">
     <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark">
   </a>
+  <a href="https://github.com/Sargis-Hovsepyan/42YerevanProjects">
+    <img src="https://badge42.vercel.app/api/v2/cl3ii8h2j009709md5ikscbyd/stats?cursusId=21&coalitionId=undefined">
+  </a> 
 </p>
 
 <p align="right">
@@ -34,10 +37,3 @@ I am also a student of 42 Yerevan programming school 🔥.
     <img src="https://badgen.net/badge/Born2Code/shovsepy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
   </a>
 </p>
-
-<p align="right">
-  <a href="https://github.com/Sargis-Hovsepyan/42YerevanProjects">
-    <img src="https://badge42.vercel.app/api/v2/cl3ii8h2j009709md5ikscbyd/stats?cursusId=21&coalitionId=undefined">
-  </a> 
-</p>
-
