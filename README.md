@@ -11,12 +11,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 ## 👨‍🎓 Education and Area of Interest
 
 - 🔭 Student of American Universit of Armenia (AUA).
-<p>
 - 🌱 Student of 42 Programming School in Yerevan.
-  <a href="https://profile.intra.42.fr/users/shovsepy">
-    <img src="https://badgen.net/badge/Born2Code/shovsepy/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
-  </a>
-</p>
 
 🎇 I am currently interested in,
 
@@ -41,3 +36,13 @@ I am also a student of 42 Yerevan programming school 🔥.
   </a> 
 </p>
 
+## 🛠️Programming Languages and Tools
+
+I started with learning ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white). It is an ✨amazing language that I have been learning more than a year in 42Yerevan. 
+Currently I am trying to learn ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white), which is another awesome beast 🔥.  I guess C++ will advance my skills to a newer level and enrich my experience 💫.
+I am also familiar with Java ☕and trying to deepen my knowledeg in Java bacend development.
+
+## Profile
+
+Here you can find the projets that I do at 42. If you need anything like a bit of help for a project 🗣️, 
+explanations of my codes 💬, or want to have a drink together 🍻, you can find me on discord (Nathaniel#6654). 
