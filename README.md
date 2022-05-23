@@ -34,18 +34,18 @@ I am also a student of 42 Yerevan programming school 🔥.
 	align="right"
 	width="400">
   </a> 
+
+
 </p>
-
-
 
 ## 🛠️Programming Languages and Tools
 
-I started with learning C. It is an ✨amazing language that I have been learning more than a year in 42Yerevan
-Currently I am trying to learn C++, which is another awesome beast 🔥. I guess C++ will advance my skills to a
+I started with learning C ✨. It is an amazing language that I have been learning more than a year in 42Yerevan
+Currently I am trying to learn C++ 🔥, which is another awesome beast. I guess C++ will advance my skills to a
 newer level and enrich my experience 💫. I am also familiar with Java ☕and trying to deepen my knowledeg in 
 Java backend development. I also want to specielise in DevOps Engineering.
 
-## Profile
+## 🙂 Profile
 
 Here you can find the projets that I do at 42. If you need anything like a bit of help for a project 🗣️, 
 explanations of my codes 💬, or want to have a drink together 🍻, you can find me on discord (Nathaniel#6654). 
