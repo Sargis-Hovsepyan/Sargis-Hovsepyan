@@ -22,7 +22,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 - HP Algorithms and Distributes Systems
 
 ## 📈 Github User and 42 Cursus Stats
-<div>
+<div style="margin-bottom: 15px">
 <p align="center">
 	
   <a href="https://github.com/Sargis-Hovsepyan">
