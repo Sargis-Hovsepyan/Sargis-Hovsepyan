@@ -10,7 +10,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 ## 👨‍🎓 Education and Area of Interest
 
-- 🔭 Student of American Universit of Armenia (AUA).
+- 🔭 Student of American University of Armenia (AUA).
 - 🌱 Student of 42 Programming School in Yerevan.
 
 🎇 I am currently interested in
