@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ⚡I am Sargis, an enthusiastic learner and developer👩‍💻! The world of computer science amazes 
-me and tackels my curiosity. ✨I am currently pursuing my Bachalor's degree in Computer Science and 
+me and tackels my curiosity. ✨I am currently pursuing my Bachelor's degree in Computer Science and 
 Engineering (CSE). 👨‍🎓 I love to explore the theoretical basis of Computer Science and
 always try to build a strong connection between theoretical and practical scenarios in CSE. 
 I am also a student of 42 Yerevan programming school 🔥. 
@@ -13,13 +13,13 @@ I am also a student of 42 Yerevan programming school 🔥.
 - 🔭 Student of American Universit of Armenia (AUA).
 - 🌱 Student of 42 Programming School in Yerevan.
 
-🎇 I am currently interested in,
+🎇 I am currently interested in
 
 - Back End Development (Java/C++)
 - DevOps Engineering
 - IT Security
 - Bioinformatics 
-- HP Algorithms and Distributes Systems
+- HP Algorithms and Distributed Systems
 
 ## 📈 Github User and 42 Cursus Stats
 <div style="margin-bottom: 15px">
@@ -41,7 +41,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 
 ## 🛠️Programming Languages and Tools
 
-I started with learning C ✨. It is an amazing language that I have been learning more than a year in 42Yerevan
+I started with learning C ✨. It is an amazing language that I have been learning more than a year in 42Yerevan.
 Currently I am trying to learn C++ 🔥, which is another awesome beast. I guess C++ will advance my skills to a
 newer level and enrich my experience 💫. I am also familiar with Java ☕and trying to deepen my knowledeg in 
 Java backend development. I also want to specielise in DevOps Engineering.
