@@ -36,8 +36,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 ## 🛠️Programming Languages and Tools
 
 I started with learning C ✨. It is an amazing language that I have been learning more than a year in 42Yerevan.
-Currently I am trying to learn C++ 🔥, which is another awesome beast. I guess C++ will advance my skills to a
-newer level and enrich my experience 💫. I am also familiar with Java ☕and trying to deepen my knowledeg in 
+Currently I am trying to learn C++ 🔥, which is another awesome beast. I am also familiar with Java ☕and trying to deepen my knowledeg in 
 Java backend development. I also want to specielise in DevOps Engineering.
 
 ## 🙂 Profile
