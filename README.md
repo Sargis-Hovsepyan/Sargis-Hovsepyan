@@ -30,12 +30,6 @@ I am also a student of 42 Yerevan programming school 🔥.
 	align="left"
 	width="400">
   </a>
-  <a href="https://github.com/42YerevanProjects">
-    <img src="https://badge42.vercel.app/api/v2/cl3ii8h2j009709md5ikscbyd/stats?cursusId=21&coalitionId=undefined"
-	align="right"
-	width="400">
-  </a> 
-	
 </p>
 </div>
 
