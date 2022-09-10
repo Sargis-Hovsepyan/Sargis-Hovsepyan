@@ -21,7 +21,7 @@ I am also a student of 42 Yerevan programming school 🔥.
 - Bioinformatics 
 - HP Algorithms and Distributed Systems
 
-## 📈 Github User and 42 Cursus Stats
+## 📈 Github User Stats
 <div style="margin-bottom: 15px">
 <p align="center">
 	
