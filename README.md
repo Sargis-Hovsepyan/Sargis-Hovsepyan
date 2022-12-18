@@ -16,7 +16,6 @@ I am also a student of 42 Yerevan programming school 🔥.
 🎇 I am currently interested in
 
 - Back End Development (Java/C++)
-- DevOps Engineering
 - IT Security
 - Bioinformatics 
 - HP Algorithms and Distributed Systems
