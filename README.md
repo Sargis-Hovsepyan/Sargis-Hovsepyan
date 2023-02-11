@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 ⚡I am Sargis, an enthusiastic learner and developer👩‍💻! The world of computer science amazes 
-me and tackels my curiosity. ✨I am currently pursuing my Bachelor's degree in Computer Science and 
+me and tackles my curiosity. ✨I am currently pursuing my Bachelor's degree in Computer Science and 
 Engineering (CSE). 👨‍🎓 I love to explore the theoretical basis of Computer Science and
 always try to build a strong connection between theoretical and practical scenarios in CSE. 
 I am also a student of 42 Yerevan programming school 🔥. 
