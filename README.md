@@ -20,14 +20,7 @@ and practical skills from 42 Yerevan Programming School 🔥.
 - Bioinformatics
 - IT Security
 
-## 📈 Github User Stats
-<p align="center">
-  <a href="https://github.com/Sargis-Hovsepyan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark" alt="Sargis Hovsepyan's GitHub Stats" width="400" style="margin-bottom: 15px;">
-  </a>
-</p>
-
-## 🛠️Programming Languages and Tools
+## 🛠️Technical Proficiencies
 
 My educational journey has provided me with a diverse skill set and a strong foundation in various programming practices and tools.
 
@@ -56,3 +49,11 @@ enabling me to tackle diverse challenges in the field of computer science with c
 Welcome to my GitHub! Here, you can explore the diverse projects I've undertaken at 42 Yerevan and beyond. Whether you're seeking assistance with a project 🗣️, 
 looking for detailed explanations of my code 💬, or just want to connect over a drink 🍻, feel free to reach out. You can find me on Discord, where I go by 
 Nathaniel (Nathaniel#6654). Let's collaborate and create something amazing together! 🚀
+
+## 📈 Github User Stats
+<p align="center">
+  <a href="https://github.com/Sargis-Hovsepyan">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark" alt="Sargis Hovsepyan's GitHub Stats" width="400" style="margin-bottom: 15px;">
+  </a>
+</p>
+
