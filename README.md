@@ -21,16 +21,11 @@ and practical skills from 42 Yerevan Programming School 🔥.
 - IT Security
 
 ## 📈 Github User Stats
-<div style="margin-bottom: 15px">
 <p align="center">
-	
   <a href="https://github.com/Sargis-Hovsepyan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark"
-	align="left"
-	width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark" alt="Sargis Hovsepyan's GitHub Stats" width="400" style="margin-bottom: 15px;">
   </a>
 </p>
-</div>
 
 ## 🛠️Programming Languages and Tools
 
