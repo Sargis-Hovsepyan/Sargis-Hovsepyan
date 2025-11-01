@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 B.Sc. in Computer Science and M.Sc. in Computer & Information Sciences from the American University of Armenia, and a graduate of 42 Yerevan Programming School.  
-I combine theoretical foundations with hands-on experience in software development and computational problem-solving.  
+I combine theoretical foundations with hands-on experience in development and computational problem-solving.  
 I like to think of myself as someone who codes not just to make things work, but to make them work efficiently.
 
 ## 👨‍💻 Interest Areas
