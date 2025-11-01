@@ -13,8 +13,8 @@ I like to think of myself as someone who codes not just to make things work, but
 - Back-End Development  
 - High-Performance Algorithms & Distributed Systems  
 
-Good theoretical foundation in Mathematics, Algorithms, Databases, Machine Learning, Cloud Computing, Cryptography, and Cybersecurity.  
-In other words: I know where the rabbit holes are—and I’m willing to dive.  
+Good theoretical foundation in Mathematics, Algorithms, Databases, Machine Learning, Cloud Computing, Cryptography, and Cybersecurity.
+In other words: I know where the rabbit holes are, and I’m willing to dive.  
 
 ## 🙂 Profile
 
