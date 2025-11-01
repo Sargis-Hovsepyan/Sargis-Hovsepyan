@@ -2,53 +2,25 @@
 
 ## 🚀 About Me
 
-⚡I am Sargis, a Bachelor of Science in Computer Science with a passion for learning and development in the field of computer science.
-My journey has been enriched by a dual educational experience, with theoretical foundations from the American University of Armenia (AUA) 
-and practical skills from 42 Yerevan Programming School 🔥.
+B.Sc. in Computer Science and M.Sc. in Computer & Information Sciences from the American University of Armenia, and a graduate of 42 Yerevan Programming School.  
+I combine theoretical foundations with hands-on experience in software development and computational problem-solving.  
+I like to think of myself as someone who codes not just to make things work, but to make them work efficiently.
 
-## 👨‍🎓 Education and Area of Interest
+## 👨‍💻 Interest Areas
 
-- 🎓 Bachelor of Computer Science from the American University of Armenia (AUA).
-- 🌱 Continuing education at 42 Programming School in Yerevan.
-- 🔭 Currently pursuing a Master's degree at AUA.
+- Geospatial Data Science  
+- Bioinformatics  
+- Back-End Development  
+- High-Performance Algorithms & Distributed Systems  
 
-🎇 I am currently interested in
-
-- Back End Development, with a focus on Java and C++
-- High-Performance Algorithms and Distributed Systems
-- Geospatial Data Science
-- Bioinformatics
-- IT Security
-
-## 🛠️Technical Proficiencies
-
-My educational journey has provided me with a diverse skill set and a strong foundation in various programming practices and tools.
-
-At 42 School, I acquired hands-on experience and expertise in:
-
-- 💻 **C and C++:**  Mastering the fundamentals and delving into advanced concepts such as system administration, networking, and threading.
-  I've also honed my skills in object-oriented programming (OOP) in C++ and utilized the basics of Standard Template Library (STL). 
-- 🐍 **Python:** Leveraging Python for various projects and challenges, enhancing my understanding of programming logic and fundamentals. 
-- 🐳 **Version Control and DevOps:** Proficiency in using Git and GitHub for version control, along with practical experience in terminal use
-  and containerization with Docker. 
-- 🌐 **Web Development:** Building a web project with technologies like NestJS, PostgreSQL, and React, showcasing my ability to work on the
-  complex backend logic and integrate different technologies seamlessly.
-- 🤝 **Soft Skills:** Developing essential soft skills through collaborative projects and teamwork.
-
-Furthermore, my studies at the American University of Armenia (AUA) provided me with theoretical fundamentals and advanced concepts in computer science, including:
-
-- 📊📈 **Mathematics:** Rigorous coursework in Calculus, Discrete Math, Linear Algebra, Real Analysis, Numerical Analysis, optimization, Probability, and Statistics. 
-- 💡🔒 **Computer Science:** Covering a wide range of topics such as Introduction to Computer Science, Object-Oriented Programming, Data Structures, Algorithms, Databases,
-  Machine Learning, Cloud Computing, Image Processing, Cryptography, and Cybersecurity. 
-
-🚀 Combining practical skills from 42 School with theoretical knowledge from AUA has equipped me with a comprehensive understanding of programming practices, tools, and concepts,
-enabling me to tackle diverse challenges in the field of computer science with confidence. 
+Good theoretical foundation in Mathematics, Algorithms, Databases, Machine Learning, Cloud Computing, Cryptography, and Cybersecurity.  
+In other words: I know where the rabbit holes are—and I’m willing to dive.  
 
 ## 🙂 Profile
 
-Welcome to my GitHub! Here, you can explore the diverse projects I've undertaken at 42 Yerevan and beyond. Whether you're seeking assistance with a project 🗣️, 
-looking for detailed explanations of my code 💬, or just want to connect over a drink 🍻, feel free to reach out. You can find me on Discord, where I go by 
-Nathaniel (Nathaniel#6654). Let's collaborate and create something amazing together! 🚀
+Welcome to my GitHub! Here, you can explore the projects I’ve undertaken at 42 Yerevan and beyond.  
+Whether you need assistance with a project, a deep dive into my code, or just want to debate, feel free to reach out.  
+You can find me on Discord: `Nathaniel#6654`. Let’s build something that actually matters. 🚀
 
 ## 📈 Github User Stats
 <p align="center">
@@ -56,4 +28,3 @@ Nathaniel (Nathaniel#6654). Let's collaborate and create something amazing toget
     <img src="https://github-readme-stats.vercel.app/api?username=Sargis-Hovsepyan&count_private=true&show_icons=true&theme=dark" alt="Sargis Hovsepyan's GitHub Stats" width="400" style="margin-bottom: 15px;">
   </a>
 </p>
-
